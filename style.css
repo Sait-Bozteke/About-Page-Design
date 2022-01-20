@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Luxurious+Roman&family=Poppins:wght@400;700&display=swap');
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+}
+html{
+font-size: 10px;
+
+
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #c24545;
+
+
+}
+.container{
+max-width: 1100px;
+margin: 0 auto;
+padding: 0 3rem;
+
+}
+
+.card{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
